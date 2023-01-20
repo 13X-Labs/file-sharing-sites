@@ -1,4 +1,4 @@
-# file-sharing-sites
+# File Sharing Sites
 13XLabs File Sharing Storj is the simplest way to send your files around the world. Share large files. 13XLabs File Sharing Storj is a simple, easy-to-use tool for sharing files directly from your device without having to rely on third-party intermediaries like big corporate cloud providers.
 
 
